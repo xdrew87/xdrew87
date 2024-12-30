@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xdrew87
-- 👀 I’m interested in ... making multi tools for education purposes
+- 👀 I’m interested in making multi tools for education purposes
 - 🌱 I’m currently learning C++ and python 
 - 📫 How to reach me ethier on IG  @xlsuixideix or @mlag or on discord suicixde
 
