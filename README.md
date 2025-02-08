@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning C++ and python 
 - 📫 How to reach me ethier on IG  @xlsuixideix or @mlag or on discord suicixde
 
+- xdrew87.github.io visit to go to my socials if you are trying to contact me 
+
 <!---
 xdrew87/xdrew87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
