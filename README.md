@@ -1,11 +1,46 @@
-- 👋 Hi, I’m @xdrew87
-- 👀 I’m interested in making multi tools for education purposes
-- 🌱 I’m currently learning C++ and python 
-- 📫 How to reach me ethier on IG  @xlsuixideix or @mlag or on discord suicixde
+# 👋 Hi, I'm xdrew87 (aka galmx)
 
-- [xdrew87.github.io](https://xdrew87.github.io/) visit to go to my socials if you are trying to contact me 
+🧠 I'm currently learning:
+- 🔹 **Cybersecurity** (OSINT, red teaming, digital forensics)
+- 🔹 **Python** for automation, tooling, and recon
+- 🔹 **C++** for building low-level and performance-based tools
 
-<!---
-xdrew87/xdrew87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ I build custom tools for red team simulation, packet sniffing, and public recon — all for **educational use only**.
+
+---
+
+## ⚒️ My Active Projects
+
+- 🕷️ **Ghost Sniff** — packet sniffer for deep traffic inspection  
+- 🔨 **Plusestrike** — DDoS stress testing tool for simulation labs  
+- 🌐 **TRID** — OSINT web app for usernames, emails, and public data  
+- ☠️ **SuicixdalEXE** — phone number + IP tracker for open-source recon  
+- 💻 **FrostedServices.xyz** — platform for hosting VPN, C2, and cyber tools  
+- 🧊 **galmx** — my alias & portfolio identity
+
+> 📍 All tools are built by me or modified from scratch for research and lab use.
+
+---
+
+## 💼 Portfolio
+Explore my tools and cyber work at:  
+➡️ [`https://xdrew87.github.io/galmx`](https://xdrew87.github.io/galmx)
+
+---
+
+## 🛠️ Tools & Platforms I Use
+- **Cyber Tools:** Nmap, SQLMap, Wireshark, CyberChef, Maltego, Burp Suite  
+- **Operating Systems:** Kali Linux, Windows, Parrot OS  
+- **Editor & Environment:** VSCode, GitHub Actions, self-hosted VPS setups
+
+---
+
+## 📬 Contact Me
+- 🐦 Twitter: [`@galmxsec`](https://twitter.com/galmxsex)
+- 💬 Discord: `galmx`
+
+---
+
+> ⚠️ *Everything I build is for ethical hacking, red team education, and cybersecurity learning only.*
+
+📌 This `README.md` appears on my GitHub profile — click "Pinned Repos" to see my tools.
