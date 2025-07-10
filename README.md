@@ -36,7 +36,7 @@ Explore my tools and cyber work at:
 ---
 
 ## 📬 Contact Me
-- 🐦 Twitter: [`@galmxsec`](https://twitter.com/galmxsex)
+- 🐦 Twitter: [`@galmxsec`](https://twitter.com/galmxsec)
 - 💬 Discord: `galmx`
 
 ---
