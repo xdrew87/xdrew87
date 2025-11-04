@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00B8D4&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Drew+(galmx)+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00B8D4&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+xdrew87+(galmx)+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 I'm a cybersecurity enthusiast and developer focused on building tools for OSINT, red teaming, and digital forensics.
 
