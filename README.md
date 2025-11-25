@@ -75,7 +75,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,chashtag,vscode,visualstudio,github,git,bash,linux,kali,ubuntu,windows,nmap,wireshark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,vscode,visualstudio,github,git,bash,linux,kali,ubuntu,windows,nmap,wireshark&perline=7" />
   </a>
 </p>
 
