@@ -9,13 +9,19 @@
   <br>
   <strong style="font-size: 14px;">OSINT | Red Teaming | Digital Forensics | Python | C++</strong>
   <br><br>
+  <table align="center" style="border: none; background: none;">
+    <tr>
+      <td align="center"><strong>10+</strong><br>Security Tools</td>
+      <td align="center"><strong>5+</strong><br>Platforms</td>
+      <td align="center"><strong>1000+</strong><br>Lines of Code</td>
+    </tr>
+  </table>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=xdrew87&style=flat-square&color=00B8D4" alt="xdrew87's profile views"/>
   <img src="https://img.shields.io/github/followers/xdrew87?label=Followers&style=flat-square&color=00B8D4&logo=github" alt="GitHub followers">
 </div>
 
 ---
-
-<hr>
 
 ## 📬 Connect With Me
 
@@ -121,6 +127,14 @@ Unified command & control platform for authorized testing
 
 ---
 
+## 🚀 Get Started Now
+
+<div align="center">
+  <p><strong>Explore my tools • Star the repos • Join the community</strong></p>
+  <a href="https://github.com/xdrew87"><img src="https://img.shields.io/badge/View%20My%20GitHub-000?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://osintintelligence.xyz/"><img src="https://img.shields.io/badge/Visit%20OSINT%20Platform-FF6B35?style=for-the-badge&logo=globe" alt="OSINT Platform"/></a>
+</div>
+
 ---
 
 <div align="center">
@@ -131,7 +145,12 @@ Unified command & control platform for authorized testing
 
 ---
 
-## 💻 Tech Stack & Tools
+## �️ Tech Stack & Tools
+
+**Languages**: Python | C++ | C# | Bash | JavaScript  
+**Platforms**: Linux | Windows | macOS | Kali  
+**Tools**: VSCode | Git | Docker | Wireshark | Nmap  
+**Specialties**: OSINT | Network Analysis | Security Tools | API Integration
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -165,6 +184,16 @@ Unified command & control platform for authorized testing
 
 ---
 
+---
+
 <div align="center">
-  <b><i>Everything I build is for ethical hacking, red team education, and cybersecurity learning only.</i></b>
+  <h3>💡 "Security is not a product, but a process"</h3>
+  <p><b>Everything I build is for ethical hacking, red team education, and cybersecurity learning only.</b></p>
+  <br>
+  <p><strong>Contributions • Issues • Discussions</strong> always welcome!</p>
+  <p>
+    <a href="https://github.com/xdrew87"><img src="https://img.shields.io/badge/GitHub-Profile-000?style=flat-square&logo=github" alt="GitHub"/></a>
+    <a href="https://twitter.com/galmxsec"><img src="https://img.shields.io/badge/Twitter-%40galmxsec-1DA1F2?style=flat-square&logo=twitter" alt="Twitter"/></a>
+    <a href="https://discord.com/users/galmx"><img src="https://img.shields.io/badge/Discord-galmx-5865F2?style=flat-square&logo=discord" alt="Discord"/></a>
+  </p>
 </div>
