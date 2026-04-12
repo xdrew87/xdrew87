@@ -1,311 +1,217 @@
 <div align="center">
-  <h1>🛡️ xdrew87 (galmx)</h1>
-  <p><strong>Cybersecurity Engineer | OSINT Specialist | Red Team Developer</strong></p>
-  <p><em>Building enterprise-grade security tools transforming data into intelligence</em></p>
-  <p>Enterprise-grade security tools and intelligence platforms for authorized research and penetration testing</p>
-  
-  <br>
-  
-  <table align="center" style="border: none; background: none;">
-    <tr>
-      <td align="center"><strong>15+</strong><br>Security Tools</td>
-      <td align="center"><strong>50K+</strong><br>Lines of Code</td>
-      <td align="center"><strong>100K+</strong><br>Downloads</td>
-      <td align="center"><strong>6+</strong><br>Platforms</td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=xdrew87&style=flat-square&color=00B8D4" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/xdrew87?label=Followers&style=flat-square&color=00B8D4&logo=github" alt="GitHub Followers">
-    <img src="https://img.shields.io/badge/Status-Active%20Development-brightgreen?style=flat-square" alt="Active">
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&height=220&section=header&text=xdrew87&fontSize=72&fontColor=00FF41&animation=blinking&fontAlignY=55&stroke=8A2BE2&strokeWidth=3&desc=galmx%20%E2%80%A2%20Cybersecurity%20Engineer&descAlignY=75&descSize=20&descColor=8A2BE2" width="100%"/>
+</div>
+
+<p align="center">
+  <a href="https://github.com/xdrew87"><img src="https://img.shields.io/badge/status-active-00FF41?style=flat-square&logo=statuspage&logoColor=black"></a>
+  <a href="https://github.com/xdrew87"><img src="https://img.shields.io/badge/focus-Cybersecurity-8A2BE2?style=flat-square&logo=hackthebox&logoColor=white"></a>
+  <a href="https://github.com/xdrew87?tab=repositories"><img src="https://img.shields.io/badge/tools-15%2B-FF0000?style=flat-square&logo=github&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=xdrew87&style=flat-square&color=00FF41&label=VISITORS" alt="visitors"/>
+  <img src="https://img.shields.io/github/followers/xdrew87?label=FOLLOWERS&style=flat-square&color=00B8D4&logo=github&logoColor=white"/>
+</p>
+
+<div align="center">
+
+```
+ ██████╗ █████╗ ██╗      ███╗   ███╗██╗  ██╗
+██╔════╝██╔══██╗██║      ████╗ ████║╚██╗██╔╝
+██║     ███████║██║      ██╔████╔██║ ╚███╔╝ 
+██║     ██╔══██║██║      ██║╚██╔╝██║ ██╔██╗ 
+╚██████╗██║  ██║███████╗ ██║ ╚═╝ ██║██╔╝ ██╗
+ ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═╝     ╚═╝╚═╝  ╚═╝
+```
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=00FF41&background=0D0D0D00&center=true&vCenter=true&width=700&lines=%5B*%5D+OSINT+Specialist+%7C+Red+Team+Developer;%5B*%5D+Building+Enterprise+Security+Tools;%5B*%5D+100K%2B+Downloads+%7C+15%2B+Tools+Deployed;%5B*%5D+Turning+Raw+Data+Into+Actionable+Intelligence;%5B*%5D+Ethical+Hacking+%7C+Authorized+Testing+Only)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-## 📌 About Me
+## `whoami`
 
-Security engineer with deep expertise in **OSINT intelligence gathering**, **red team operations**, and **network security**. I develop production-grade tools that bridge security research with real-world application, turning raw data into actionable intelligence. Passionate about open-source cybersecurity and enabling ethical security professionals worldwide.
-
-**Core Specializations:**
-- 🕵️ **Open Source Intelligence (OSINT)** – Multi-source data aggregation, profiling, digital forensics, intel synthesis
-- 🔴 **Red Team Operations** – Authorized testing infrastructure, C2 frameworks, deployment automation  
-- 🌐 **Network Security** – Protocol analysis, packet inspection, traffic profiling, anomaly detection
-- 🔐 **Security Automation** – Python/C++ tools, N8N workflows, API-driven security pipelines
-- 📊 **Data Intelligence** – Analytics platforms, threat correlation, pattern recognition
+```python
+class xdrew87:
+    alias      = "galmx"
+    role       = ["Cybersecurity Engineer", "OSINT Specialist", "Red Team Developer"]
+    location   = "The Terminal"
+    languages  = ["Python", "C++", "C#", "JavaScript", "Bash"]
+    
+    specializations = {
+        "OSINT"          : "Multi-source intel, profiling, digital forensics",
+        "Red Team"       : "Authorized testing, C2 frameworks, deployment automation",
+        "Network Sec"    : "Protocol analysis, packet inspection, anomaly detection",
+        "Automation"     : "N8N workflows, API pipelines, security tooling",
+        "Intelligence"   : "Threat correlation, pattern recognition, analytics",
+    }
+    
+    metrics = {
+        "tools_built"    : "15+",
+        "lines_of_code"  : "50K+",
+        "downloads"      : "100K+",
+        "platforms"      : "6+",
+        "integrations"   : "9+",
+        "years_active"   : "4+",
+    }
+    
+    def __init__(self):
+        self.mission = "Build tools that turn data into intelligence."
+```
 
 ---
 
----
+## 🛠 Arsenal & Expertise
 
-## ✨ Why Work With Me
-
-| **Advantage** | **Benefit** |
+| **Category** | **Tools & Technologies** |
 |---|---|
-| 🎯 **Custom Solutions** | Tailored tools built for YOUR specific security challenges |
-| ⚡ **Production-Ready** | Enterprise-grade code with 50K+ lines of battle-tested implementations |
-| 📈 **Proven Results** | 100K+ downloads, real-world deployments in security operations |
-| 🔄 **Active Maintenance** | Continuous updates, responsive to security issues, community-driven |
-| 🛠️ **Full Stack** | From concept to deployment – design, development, infrastructure, automation |
-| 🔐 **Security-First** | Enterprise security best practices embedded in every project |
+| 🐍 **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) |
+| 🔴 **Red Team / Exploitation** | ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat&logo=nmap&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white) |
+| 🕵️ **OSINT & Recon** | ![Shodan](https://img.shields.io/badge/Shodan-AA1111?style=flat&logo=shodan&logoColor=white) ![TheHarvester](https://img.shields.io/badge/TheHarvester-8A2BE2?style=flat&logoColor=white) ![Maltego](https://img.shields.io/badge/Maltego-000000?style=flat&logoColor=00FF41) ![Custom Tools](https://img.shields.io/badge/Custom_OSINT_Tools-00FF41?style=flat&logo=github&logoColor=black) |
+| 🌐 **Network Security** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![tcpdump](https://img.shields.io/badge/tcpdump-FF0000?style=flat&logoColor=white) ![Zeek](https://img.shields.io/badge/Zeek-005CA5?style=flat&logoColor=white) ![Snort](https://img.shields.io/badge/Snort-CC0000?style=flat&logoColor=white) |
+| ☁️ **Infrastructure** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) |
+| ⚡ **Automation & APIs** | ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat&logo=n8n&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![REST](https://img.shields.io/badge/REST_API-005571?style=flat&logo=postman&logoColor=white) ![Webhooks](https://img.shields.io/badge/Webhooks-FF6B35?style=flat&logo=zapier&logoColor=white) |
+| 🗄️ **Data & Intelligence** | ![SIEM](https://img.shields.io/badge/SIEM_Integration-1a1a2e?style=flat&logo=elastic&logoColor=00B8D4) ![Log Analysis](https://img.shields.io/badge/Log_Analysis-00B8D4?style=flat&logo=elasticsearch&logoColor=white) ![Threat Intel](https://img.shields.io/badge/Threat_Intel-8A2BE2?style=flat&logo=virustotal&logoColor=white) |
+
+---
+
+## 📡 GitHub Intelligence
 
 <div align="center">
-  <p>
-    <a href="https://xdrew87.github.io/galmx" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-8A2BE2?style=for-the-badge" alt="Portfolio"/></a>
-    <a href="https://osintintelligence.xyz/" target="_blank"><img src="https://img.shields.io/badge/🔍%20OSINT%20Platform-FF6B35?style=for-the-badge" alt="OSINT Platform"/></a>
-    <a href="https://suicixde.xyz/" target="_blank"><img src="https://img.shields.io/badge/⚡%20API%20Platform-00B8D4?style=for-the-badge" alt="API Platform"/></a>
-  </p>
-  
-  <p>
-    <a href="https://twitter.com/galmxsec" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
-    <a href="https://discord.com/users/galmx" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
-    <a href="https://github.com/xdrew87" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  </p>
+
+| Stats | Top Languages |
+|:---:|:---:|
+| ![xdrew87's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdrew87&show_icons=true&theme=merko&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=00FF41&icon_color=8A2BE2&text_color=c9d1d9&ring_color=8A2BE2) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdrew87&layout=compact&theme=merko&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=c9d1d9) |
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xdrew87&theme=dark&hide_border=true&background=0d0d0d&ring=00FF41&fire=8A2BE2&currStreakLabel=00FF41&sideLabels=00B8D4&dates=c9d1d9&stroke=8A2BE2)](https://github.com/xdrew87)
+
+</div>
+
+### 📈 Contribution Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xdrew87&bg_color=0d0d0d&color=00FF41&line=8A2BE2&point=00B8D4&area_color=1a0a2e&area=true&hide_border=true)](https://github.com/xdrew87)
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=xdrew87&theme=matrix&column=8&margin-w=8&margin-h=8&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
 
 ## 🚀 Flagship Projects
 
-### Intelligence & OSINT
-
-#### ☠️ **SuicixdalEXE** – Complete OSINT & Network Toolkit  ⭐ FLAGSHIP
-**The all-in-one security toolkit for professionals**
-- **Integrated Tools:** IP geolocation, phone lookup, email breach detection, username enumeration, domain analysis, network reconnaissance
-- **Impact:** 50K+ downloads | 1100+ lines of production code | Zero dependencies | Cross-platform
-- **Deployment:** Single .EXE file – plug & play, no installation required
-- **Why It Matters:** Consolidates 10+ tools into one seamless interface for efficiency
-- [View Repository](https://github.com/xdrew87/suicixdalEXE) | ⭐ **Star on GitHub**
-
-#### 🌐 **OSINT Intelligence Platform** – Enterprise Intelligence Suite
-**Professional-grade intelligence gathering at scale**
-- **Capabilities:** 9+ platform integrations, username verification, email validation, breach detection, public data aggregation
-- **Performance:** Real-time updates, advanced caching, sub-second query response
-- **Architecture:** Scalable API design, distributed caching layers, real-time data streaming
-- **Audience:** Security professionals, OSINT researchers, penetration testers, security analysts
-- [Visit Platform](https://osintintelligence.xyz/) | [API Docs](https://osintintelligence.xyz/api)
-
-#### 🔍 **TRID** – Enterprise OSINT Application
-**Multi-source intelligence platform with advanced analytics**
-- **Capabilities:** Cross-platform username verification, email validation, social media profiling
-- **Data Sources:** 9+ integrated platforms with real-time verification and historical tracking
-- **Intelligence:** Threat correlation, pattern analysis, digital footprint mapping
-- **Use Cases:** Due diligence, background research, digital investigations, competitive intelligence
-- [View Repository](https://github.com/xdrew87/TRID)
-
-### Threat Intelligence & Monitoring
-
-#### 🔭 **Argus** – Advanced Threat Intelligence & Monitoring
-**Real-time threat detection and intelligence platform**
-- **Capabilities:** Network behavior analysis, threat pattern recognition, log aggregation, anomaly detection
-- **Features:** Real-time alerting, threat correlation, incident timeline tracking, forensic analysis
-- **Integration:** Webhook support, SIEM integration, custom alert rules
-- **Use Cases:** SOC operations, incident response, continuous security monitoring, threat hunting
-- [View Repository](https://github.com/xdrew87/Argus)
-
-### Infrastructure & Testing
-
-#### 🔨 **PulseStrike** – Authorized Stress Testing Platform
-**Professional infrastructure for authorized penetration testing**
-- **Purpose:** DDoS simulation, infrastructure testing, authorized penetration work in controlled labs
-- **Architecture:** Command & control framework, multi-threaded execution, detailed logging
-- **Compliance:** Designed for authorized testing only; includes compliance documentation
-- **Target Audience:** Red teams, security consultants, authorized testing practitioners
-- [View Repository](https://github.com/xdrew87/pulsestrike)
-
-#### 🌍 **FrostedServices.xyz** – Security Lab Infrastructure
-**Enterprise-grade testing environment platform**
-- **Services:** Managed VPN hosting, C2 server deployment, isolated lab provisioning, infrastructure as code
-- **Reliability:** 99.9% uptime SLA, enterprise-grade infrastructure, professional 24/7 support
-- **Scale:** Multi-region deployment, load balancing, auto-scaling capabilities
-- **Users:** Red teams, security consultants, authorized testing practitioners, security training programs
-- [Visit Platform](https://frostedservices.xyz) | [Documentation](https://frostedservices.xyz/docs)
-
-### APIs & Data Access
-
-#### ⚡ **API Platform** – Suicixde.xyz
-**Full-stack API infrastructure for security intelligence**
-- **Services:** RESTful endpoints, real-time data feeds, batch processing, webhook support, webhook delivery
-- **Integration:** Easy-to-integrate APIs, comprehensive REST documentation, SDKs (Python, Node.js, Go)
-- **Performance:** <100ms response times, automatic rate limiting, retry logic, data caching
-- **Use Cases:** Third-party integrations, security automation workflows, data aggregation pipelines, N8N workflows
-- [Visit Platform](https://suicixde.xyz/) | [API Docs](https://suicixde.xyz/docs) | [SDK Repo](https://github.com/xdrew87/suicixde-sdk)
-
----
-
-## � Use Cases & Applications
-
-**Security Operations Centers (SOC)**
-- Automated threat intelligence enrichment with Argus
-- Real-time log analysis and anomaly detection
-- Incident response automation via N8N workflows
-
-**Red Team Operations**
-- OSINT reconnaissance with SuicixdalEXE and TRID
-- Authorized infrastructure testing via PulseStrike
-- Lab environment provisioning on FrostedServices
-
-**Security Research & Analysis**
-- Multi-source data aggregation from OSINT Platform
-- Threat pattern correlation with Argus
-- Custom reporting and analytics
-
-**Third-Party Integration**
-- Security API access via Suicixde.xyz
-- Webhook-driven automation pipelines
-- Batch processing for large-scale operations
-
----
-
-## 📊 Impact & Scale
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>50K+</strong><br>Total Code Lines</td>
-      <td align="center"><strong>100K+</strong><br>Tool Downloads</td>
-      <td align="center"><strong>15+</strong><br>Security Tools</td>
-      <td align="center"><strong>6+</strong><br>Active Platforms</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>9+</strong><br>Platform Integrations</td>
-      <td align="center"><strong>4+</strong><br>Years Experience</td>
-      <td align="center"><strong>99.9%</strong><br>Uptime SLA</td>
-      <td align="center"><strong>∞</strong><br>Community Driven</td>
-    </tr>
-  </table>
-</div>
-
----
-
----
-
-## 🎯 Instagram Analyzer v2.0 – Performance Powerhouse
-
-Advanced Instagram profile analysis tool with intelligent caching and adaptive rate limiting.
-
-| **Feature** | **Benefit** | **Performance** |
+| Project | Description | Links |
 |---|---|---|
-| **24h Smart Cache** | 95% fewer API calls | Sub-second responses |
-| **Adaptive Rate Limiting** | Zero account bans | Auto-recovery system |
-| **Batch Processing** | Analyze 100+ profiles | Fully parallelized |
-| **9 Content Categories** | AI-powered classification | Instant categorization |
-| **Enterprise Code** | 300+ optimized lines | Production-grade |
-| **99% Reliability** | Auto-recovery built-in | Zero maintenance |
-| **Free Forever** | One-time purchase | No hidden fees |
-| **Full Analytics** | JSON/CSV exports | Complete insights |
-
-**Performance Metrics:** ⚡ <5 seconds per profile | 🚀 400% faster than manual | 💰 10x cheaper than commercial APIs | 📊 Fully automated batch analysis
+| ☠️ **SuicixdalEXE** | All-in-one OSINT & network toolkit · 50K+ downloads · zero deps · single `.EXE` | [Repo](https://github.com/xdrew87/suicixdalEXE) |
+| 🌐 **OSINT Intelligence Platform** | Enterprise intel suite · 9+ integrations · real-time data · sub-second queries | [Platform](https://osintintelligence.xyz/) · [API](https://osintintelligence.xyz/api) |
+| 🔍 **TRID** | Multi-source intel app · username & email verification · social media profiling | [Repo](https://github.com/xdrew87/TRID) |
+| 🔭 **Argus** | Real-time threat detection · log aggregation · SIEM integration · SOC-ready | [Repo](https://github.com/xdrew87/Argus) |
+| 🔨 **PulseStrike** | Authorized stress testing · C2 framework · multi-threaded · compliance-ready | [Repo](https://github.com/xdrew87/pulsestrike) |
+| 🌍 **FrostedServices** | Lab infrastructure · VPN/C2 hosting · 99.9% uptime · multi-region | [Platform](https://frostedservices.xyz) · [Docs](https://frostedservices.xyz/docs) |
+| ⚡ **API Platform** | Full-stack security APIs · <100ms response · Python/Node/Go SDKs · N8N-ready | [Platform](https://suicixde.xyz/) · [Docs](https://suicixde.xyz/docs) |
+| 📸 **Instagram Analyzer v2** | AI profile analysis · 24h cache · batch 100+ · adaptive rate limiting | [Repo](https://github.com/xdrew87) |
 
 ---
 
-## 🎬 Get Started in 3 Steps
+## 🐍 Contribution Grid
 
 <div align="center">
-  <p><strong>Start leveraging enterprise security tools today</strong></p>
-  
-  <table align="center" style="border: none; background: none;">
-    <tr>
-      <td align="center"><strong>1️⃣ Explore</strong><br>Check out the repos & platforms</td>
-      <td align="center"><strong>2️⃣ Integrate</strong><br>Use APIs & SDKs for your workflow</td>
-      <td align="center"><strong>3️⃣ Automate</strong><br>Deploy with N8N & custom scripts</td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <p>
-    <a href="https://github.com/xdrew87" target="_blank"><img src="https://img.shields.io/badge/🔗%20GitHub%20Profile-000?style=for-the-badge" alt="GitHub"/></a>
-    <a href="https://osintintelligence.xyz/" target="_blank"><img src="https://img.shields.io/badge/🔍%20OSINT%20Platform-FF6B35?style=for-the-badge" alt="OSINT"/></a>
-    <a href="https://suicixde.xyz/" target="_blank"><img src="https://img.shields.io/badge/⚡%20API%20Platform-00B8D4?style=for-the-badge" alt="API"/></a>
-  </p>
-  
-  <br>
-  
-  <p>
-    <a href="https://github.com/xdrew87?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/📂%20Browse%20All%20Repos-GitHub-black?style=flat-square" alt="Repos"/></a>
-    <a href="https://suicixde.xyz/docs" target="_blank"><img src="https://img.shields.io/badge/📚%20API%20Documentation-Docs-blue?style=flat-square" alt="Docs"/></a>
-    <a href="https://frostedservices.xyz" target="_blank"><img src="https://img.shields.io/badge/🛡️%20Test%20Infrastructure-Lab-green?style=flat-square" alt="Lab"/></a>
-  </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xdrew87/xdrew87/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xdrew87/xdrew87/blob/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://github.com/xdrew87/xdrew87/blob/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+> ⚙️ *Enable the snake by adding [this GitHub Action](https://github.com/Platane/snk) to your profile repo*
+
 </div>
 
 ---
 
-## 📋 Technology Stack & Expertise
+## ⚖️ Security Code of Conduct
 
-<div align="center">
-  <p><strong>Enterprise-grade technology for security at scale</strong></p>
-</div>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║              AUTHORIZED USE ONLY — READ BEFORE USE              ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-**Core Languages:** Python • C++ • C# • JavaScript • Bash  
-**Cloud & Platforms:** Linux • Windows • Kali • macOS • Docker • Kubernetes  
-**Security Tools:** Wireshark • Nmap • OWASP • Metasploit  
-**Automation & Integration:** N8N • GitHub Actions • REST APIs • Webhooks • SIEM Integration  
-**Data & Analytics:** Real-time streaming • Log aggregation • Pattern analysis • Threat correlation
+All tools, platforms, APIs, and code in this profile are built exclusively for:
 
-**Expertise Areas:**
-- 🕵️ Open Source Intelligence (OSINT) – Multi-source aggregation, deep profiling
-- 🔴 Red Team Ops – Authorized testing, C2 infrastructure, penetration frameworks
-- 📊 Data Intelligence – Analytics, threat correlation, behavioral analysis
-- 🔐 Security Automation – N8N workflows, API integration, incident response pipelines
-- 🌐 Network Security – Protocol analysis, packet inspection, anomaly detection
-- ☁️ Infrastructure – VPN hosting, lab provisioning, enterprise deployment
+| ✅ **Permitted** | ❌ **Prohibited** |
+|---|---|
+| Authorized penetration testing with written consent | Unauthorized access to systems or networks |
+| Cybersecurity education & research | Illegal surveillance or stalking |
+| CTF competitions & sandboxed lab environments | Doxxing, harassment, or targeted abuse |
+| OSINT on yourself or consented parties | Malicious use against individuals or organizations |
+| Red team engagements with signed scope agreements | Distribution of tools for criminal activity |
+| Security hardening & vulnerability disclosure | Bypassing security controls without authorization |
 
----
+### 🔐 Responsible Disclosure
 
-## 📊 GitHub Activity
+If you discover a vulnerability in any of my projects:
 
-<div align="center">
-  <a href="https://github.com/xdrew87">
-    <img src="https://github-readme-stats.vercel.app/api?username=xdrew87&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <br>
-  <a href="https://github.com/xdrew87">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdrew87&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
+1. **Do NOT** open a public issue — report privately first
+2. 📧 Email: `xdrew87@suicixde.xyz` with subject `[VULN] <project-name>`
+3. Include: description, reproduction steps, impact assessment
+4. Allow **72 hours** for acknowledgment before any public disclosure
+5. Credit will be given to all responsible reporters
 
----
+### 📜 Ethical Use Pledge
 
+```python
+if not has_written_authorization():
+    raise PermissionError("Stop. You do not have permission to proceed.")
 
-## 🏆 Achievements & Recognition
+if target not in [your_own_systems, consented_targets, ctf_environments]:
+    raise EthicsViolation("This tool is not for you.")
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=xdrew87&theme=dracula&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-  <br><br>
-  <a href="https://github.com/xdrew87">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xdrew87&bg_color=282a36&color=f8f8f2&line=ff79c6&point=50fa7b&area=true&hide_border=true" alt="Activity Graph" />
-  </a>
-</div>
+# By using any tool in this profile, you agree:
+assert usage == "ethical"
+assert testing == "authorized"
+assert purpose in ["education", "research", "authorized_pentest"]
+```
+
+> **Legal Notice:** You are solely responsible for ensuring your use of these tools complies with all applicable local, state, federal, and international laws. Misuse is a violation of the Computer Fraud and Abuse Act (CFAA), GDPR, and equivalent legislation worldwide. The author assumes **zero liability** for misuse.
 
 ---
 
-## 💼 Professional Standards
+## 📡 Links & Contact
 
-✅ **All code follows enterprise security best practices**  
-✅ **Ethical use only – education & authorized testing**  
-✅ **Active maintenance & community collaboration**  
-✅ **Clear documentation & usage guidelines**  
-✅ **Responsive to security issues & improvements**
+<p align="center">
+  <a href="https://xdrew87.github.io/galmx" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://osintintelligence.xyz/" target="_blank"><img src="https://img.shields.io/badge/OSINT_Platform-FF6B35?style=for-the-badge&logo=searchengineland&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://suicixde.xyz/" target="_blank"><img src="https://img.shields.io/badge/API_Platform-00B8D4?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://frostedservices.xyz" target="_blank"><img src="https://img.shields.io/badge/Lab_Infrastructure-00FF41?style=for-the-badge&logo=linux&logoColor=black"/></a>
+</p>
 
----
-
-## 🤝 Get In Touch
+<p align="center">
+  <a href="mailto:xdrew87@suicixde.xyz"><img src="https://img.shields.io/badge/xdrew87%40suicixde.xyz-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://twitter.com/galmxsec"><img src="https://img.shields.io/badge/@galmxsec-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://discord.com/users/galmx"><img src="https://img.shields.io/badge/galmx-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/xdrew87"><img src="https://img.shields.io/badge/xdrew87-000000?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 
 <div align="center">
-  <p><strong>Questions • Collaboration • Security Issues</strong></p>
-  <p>
-    <a href="mailto:xdrew87@suicixde.xyz"><img src="https://img.shields.io/badge/📧%20Email-xdrew87%40suicixde.xyz-red?style=flat-square" alt="Email"/></a>
-    <a href="https://twitter.com/galmxsec">Twitter</a> • 
-    <a href="https://discord.com/users/galmx">Discord</a> • 
-    <a href="https://github.com/xdrew87">GitHub</a>
-  </p>
-  <br>
-  <p><em>💡 "Security is not a product, but a process"</em></p>
-  <p><strong>Everything I build is for ethical hacking, authorized testing, and cybersecurity education only.</strong></p>
+<br>
+<em><code>// Everything I build is for ethical hacking, authorized testing, and cybersecurity education only.</code></em>
+<br>
+<em><code>// "Security is not a product, but a process." — Bruce Schneier</code></em>
 </div>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0a2e,50:0d0d0d,100:1a0a2e&height=150&section=footer&text=&fontSize=0&reversal=true" width="100%"/>
