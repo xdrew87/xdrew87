@@ -109,7 +109,7 @@ class xdrew87:
 
 | Project | Description | Links |
 |---|---|---|
-| ☠️ **SuicixdalEXE** | All-in-one OSINT & network toolkit · 50K+ downloads · zero deps · single `.EXE` | [Repo](https://github.com/xdrew87/suicixdalEXE) |
+| ☠️ **SuicixdalEXE** | All-in-one OSINT & network toolkit · 50K+ downloads · zero deps · single `.EXE` | [Repo](https://github.com/xdrew87/TraceScope) |
 | 🌐 **OSINT Intelligence Platform** | Enterprise intel suite · 9+ integrations · real-time data · sub-second queries | [Platform](https://osintintelligence.xyz/) · [API](https://osintintelligence.xyz/api) |
 | 🔍 **TRID** | Multi-source intel app · username & email verification · social media profiling | [Repo](https://github.com/xdrew87/TRID) |
 | 🔭 **Argus** | Real-time threat detection · log aggregation · SIEM integration · SOC-ready | [Repo](https://github.com/xdrew87/Argus) |
