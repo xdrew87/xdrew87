@@ -197,7 +197,7 @@ assert purpose in ["education", "research", "authorized_pentest"]
 </p>
 
 <p align="center">
-  <a href="mailto:xdrew87@suicixde.xyz"><img src="https://img.shields.io/badge/xdrew87%40suicixde.xyz-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:xdrew87@osintintelligence.xyz"><img src="https://img.shields.io/badge/xdrew87%40osintintelligence.xyz-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
   <a href="https://twitter.com/galmxsec"><img src="https://img.shields.io/badge/@galmxsec-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
   &nbsp;
